@@ -1,0 +1,9 @@
+This project should be done individually.
+
+It is composed of 3 parts:
+
+produce a function to be able to perform the cross-validation associated to the CART algorithm.
+
+in the rpart function, there is now the variable importance which is available. Try to look at if this variable importance is computed as it should.
+
+Understand and reproduce what have been done in the article that is also available in moodle. The title of this article is “VSURF: an R package for Variable Selection Using Random Forest”. When I say reproduce, this means to make the code associated to the different steps are to find the code and to comment it. To help you, you can also consider the article entitled “Variable selection using random forest” where you will find more details about the algorithm.
